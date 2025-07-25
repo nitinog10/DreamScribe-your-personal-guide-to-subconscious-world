@@ -1,0 +1,7 @@
+{
+  "name": "DreamScribe",
+  "description": "Log your dreams via voice or text and get AI-powered interpretations to uncover the secrets of your subconscious. Track themes, moods, and visualize your dreams with generative AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
